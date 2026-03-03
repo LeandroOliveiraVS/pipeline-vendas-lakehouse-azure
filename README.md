@@ -76,3 +76,28 @@ Projeto desenvolvido com foco em economia:
 - Cluster Databricks: Single Node + auto-terminate 15min
 - Synapse: Serverless (paga por query)
 - Custo total estimado: **< $30**
+
+## 📸 Documentação do Processo
+
+### ☁️ Resource Group — Recursos Azure
+![Resource Group](docs/Resource_Group.png)
+
+### 🗄️ Storage Account — Data Lake Gen2
+![Storage Account](docs/Storage_Account.png)
+
+### 🔶 Pipeline de Ingestão — Azure Data Factory
+![ADF Bronze](docs/AzureDataFactoryBronze.png)
+
+### 📁 Estrutura de Diretórios
+![Diretórios](docs/Diretorios.png)
+
+### ⚙️ Camada Silver — Transformação PySpark
+![Silver 1](docs/Silver_1.png)
+![Silver 2](docs/Silver_2.png)
+
+### 🏆 Camada Gold — Agregação
+![Gold 1](docs/Gold_1.png)
+![Gold 2](docs/Gold_2.png)
+
+### 🔍 Azure Synapse Analytics
+![Synapse](docs/Synapse_1.png)
