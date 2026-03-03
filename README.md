@@ -101,3 +101,6 @@ Projeto desenvolvido com foco em economia:
 
 ### 🔍 Azure Synapse Analytics
 ![Synapse](docs/Synapse_1.png)
+
+### 📊 Power BI
+![PowerBI](docs/pb)
