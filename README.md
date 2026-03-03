@@ -103,4 +103,4 @@ Projeto desenvolvido com foco em economia:
 ![Synapse](docs/Synapse_1.png)
 
 ### 📊 Power BI
-![PowerBI](docs/pb)
+![PowerBI](docs/pb.png)
