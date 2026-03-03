@@ -80,7 +80,7 @@ Projeto desenvolvido com foco em economia:
 ## 📸 Documentação do Processo
 
 ### ☁️ Resource Group — Recursos Azure
-![Resource Group](docs/Resource_Group.png)
+![Resource Group](docs/Resource_group.png)
 
 ### 🗄️ Storage Account — Data Lake Gen2
 ![Storage Account](docs/Storage_Account.png)
